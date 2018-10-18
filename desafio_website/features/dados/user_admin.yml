@@ -1,0 +1,4 @@
+#dados para efetuar login
+user_adm:
+  email: "admin@phptravels.com"
+  password: "demoadmin"
